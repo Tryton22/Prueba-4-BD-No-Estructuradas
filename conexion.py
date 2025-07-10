@@ -11,7 +11,7 @@ def con():
     )
 
         if mydb.is_connected():
-            print("conexion exitosa!!")
+            print("Conexion exitosa!!")
         return mydb
 
     except Error as e:
