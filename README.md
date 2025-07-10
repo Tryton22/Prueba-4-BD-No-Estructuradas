@@ -1,9 +1,7 @@
 # Código Prueba 4 Bases de Datos No Estructuradas
-Código en el informe incompleto y con errores por fallo humano y falta de tiempo.
-Código en el repositorio completo y se espera que funcione bien.
+Código en el informe incompleto y con errores.  
+Código en el repositorio casi completo y se espera que funcione bien.  
+Version 0  
 
-Integrantes:  
-  - MJ Antilef
-  - I Fonseca  
-  - M Fonseca
-  - L Gutierrez
+Grupo:  
+  - Antilef, Fonseca, Fonseca, Gutierrez
